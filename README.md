@@ -1,1 +1,1 @@
-# Bubble_Sort_vs_Merge_Sort
+Run the program to find out whether bubble sort or merge sort is faster!
